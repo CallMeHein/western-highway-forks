@@ -1,0 +1,13 @@
+[submodule "baritone"]
+	path = baritone
+	url = https://github.com/CallMeHein/meteor-baritone
+[submodule "altoclef"]
+	path = altoclef
+	url = https://github.com/CallMeHein/altoclef
+[submodule "auto-western-highway"]
+	path = auto-western-highway
+	url = https://github.com/CallMeHein/Auto-Western-Highway-Fabric
+[submodule "meteor-client"]
+	path = meteor-client
+	url = https://github.com/CallMeHein/meteor-client
+
